@@ -1,4 +1,3 @@
-# patho-ppt-generator
 from pptx import Presentation
 from pptx.util import Inches, Pt
 
